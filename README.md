@@ -1,4 +1,4 @@
-# An optimizer for uav conceptual and preliminary design
+## An optimizer for uav conceptual and preliminary design
 
 ### Environment setup
 1. Install [Python](https://www.python.org/downloads/)

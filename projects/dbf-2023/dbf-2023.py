@@ -54,7 +54,7 @@ def mission_setup(aircraft: Aircraft):
         r=False,
     )
 
-    static_margin = (aero["x_np"] - aircraft.mass_props_TOGW.x_cg) / aircraft.wing.mean_aerodynamic_chord()
+    # static_margin = (aero["x_np"] - aircraft.mass_props_TOGW.x_cg) / aircraft.wing.mean_aerodynamic_chord()
 
     # objective = aircraft.weights['payload'] * lap_number + antenna_length / lap_time
 

@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"version","STRING","0","0","0"
+"myid","INTEGER","1","1","0"
+"dbversion","DECIMAL","3","1","1"
+"updversion","STRING","11","0","0"
+"scrversion","STRING","12","0","0"
+"msgversion","STRING","11","0","0"
